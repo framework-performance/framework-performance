@@ -1,7 +1,7 @@
 ## Performance showcase for JS Frameworks 
 
-[Angular](/blog/angular)
+[Angular](/framework-performance/angular)
 
-[REACT](/blog/react/)
+[REACT](/framework-performance/react/)
 
 
