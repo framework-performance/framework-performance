@@ -19,7 +19,7 @@
   "homepage": "https://github.com/framework-performance/blog#readme",
   "dependencies": {
     "copyfiles": "^1.0.0",
-    "performance-angular": "0.0.7",
+    "performance-angular": "0.0.8",
     "rimraf": "^2.5.4"
   }
 }
