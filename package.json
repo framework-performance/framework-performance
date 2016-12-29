@@ -1,0 +1,25 @@
+{
+  "name": "perfromanc-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "rimraf angular &&  copyfiles -f node_modules/performance-angular/dist/*.* angular"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framework-performance/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/framework-performance/blog/issues"
+  },
+  "homepage": "https://github.com/framework-performance/blog#readme",
+  "dependencies": {
+    "copyfiles": "^1.0.0",
+    "performance-angular": "0.0.7",
+    "rimraf": "^2.5.4"
+  }
+}
