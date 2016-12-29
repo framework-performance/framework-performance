@@ -22,7 +22,7 @@
     "copyfiles": "^1.0.0",
     "del": "^2.2.2",
     "performance-angular": "0.0.9",
-    "performance-react": "0.0.6",
+    "performance-react": "0.0.7",
     "rimraf": "^2.5.4"
   }
 }
