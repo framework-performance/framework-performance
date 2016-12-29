@@ -5,21 +5,24 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "rimraf angular &&  copyfiles -f node_modules/performance-angular/dist/*.* angular"
+    "postinstall": "node scripts/copy-frameworks.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/framework-performance/blog.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/framework-performance/blog/issues"
   },
   "homepage": "https://github.com/framework-performance/blog#readme",
   "dependencies": {
+    "copy-dir": "^0.3.0",
     "copyfiles": "^1.0.0",
-    "performance-angular": "0.0.8",
+    "del": "^2.2.2",
+    "performance-angular": "0.0.9",
+    "performance-react": "0.0.6",
     "rimraf": "^2.5.4"
   }
 }
