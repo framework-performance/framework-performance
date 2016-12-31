@@ -21,7 +21,7 @@
     "copy-dir": "^0.3.0",
     "copyfiles": "^1.0.0",
     "del": "^2.2.2",
-    "performance-angular": "0.0.12",
+    "performance-angular": "0.0.13",
     "performance-react": "0.0.10"
   }
 }

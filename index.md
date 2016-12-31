@@ -13,6 +13,9 @@ So you can see whats going on.
  
 [![Demo Video](http://img.youtube.com/vi/2yXaoV6tBBM/0.jpg)](https://youtu.be/2yXaoV6tBBM)
 
+You have a suggestion for optimize performance, feel free to create a PR.
+
+
 ## Angular
 
 [DEMO](/framework-performance/angular)
